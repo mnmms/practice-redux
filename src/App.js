@@ -1,11 +1,14 @@
-import React from 'react';
+// import React from 'react';
 
-function App() {
-  return (
-    <div>
-      hi
-    </div>
-  );
-}
+// function App() {
+//   return (
+//     <div>
+//       hi
+//     </div>
+//   );
+// }
 
-export default App;
+// export default App;
+
+// TODO: vanilla-redux
+
