@@ -1,7 +1,7 @@
 import { createStore } from 'redux';
-import reducer from '../reducers';
+import rootReducer from '../reducers';
 
-let store = createStore(reducer);
+let store = createStore(rootReducer);
 
 console.log(store.getState());
 
