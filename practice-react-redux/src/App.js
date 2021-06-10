@@ -1,9 +1,10 @@
 import './App.css';
+import CounterContainer from './container/CounterContainer';
 
 function App() {
   return (
     <div className="App">
-      여기는 App Component
+      <CounterContainer/>
     </div>
   );
 }
